@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geolocalisation</string>
+    <string name="textview">TextView</string>
+    <string name="descriptif_parcours">descriptif parcours</string>
+</resources>
